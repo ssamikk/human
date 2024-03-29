@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>national.txt</file>
+    </qresource>
+</RCC>
